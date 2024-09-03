@@ -1,0 +1,88 @@
+body {
+    background-color:rgb(255, 246, 246) !important;
+}
+
+.navbar {
+    z-index: 1; background-color: #610b0b; color: #fff
+}
+.icon {
+    width: 50px;
+    height: 50px;
+}
+.mapa {
+    width: 100%;
+    padding-bottom: 20px;
+    width: fit-content;
+}
+
+.card-curso {
+    max-width: 350px !important;
+
+}
+
+.card-body {
+    height: 300px !important;
+
+}
+
+.card-vestibular {
+    display: flex;
+    padding: 16px;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    background-color: white;
+    border: 0.1px solid rgb(212, 212, 212);
+    border-radius: 15px;color: #680300;
+}
+
+.card-vestibular a{
+    width: 70%;
+}
+
+.card:first-child {
+   margin-right: 36px;
+}
+.justify-content-md-center {
+    margin-bottom: 24px;
+}
+
+ .info-images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 16px 0px;
+}
+
+.info-images img {
+    width: 550px;
+    width: 550px;
+
+}
+
+.social a{
+    text-decoration:none
+}
+
+.mapa-container {
+    width: fit-content;
+    color: #680300;
+}
+
+.mapa-h2 {
+    color: #680300;
+
+}
+
+.link-icon {
+    text-decoration:none; color:black;
+}
+
+.icon-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.footer {
+   background-color:  #f7e6e6a1 !important;
+}
